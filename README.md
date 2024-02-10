@@ -3,4 +3,4 @@ G͊̉ͣ͗̔͏̙̗̥͡h̴̡͉̩̞͉̼͕̭͌ͅͅö̡̬̱̰͍̭̦́͋͊͋ͭ̌̋͟s͑
 
 **CRUD PHP**
 **Create, Read, Update, dan Delete**
-CRUD adalah singkatan dari Create, Read, Update, dan Delete. Ini adalah operasi dasar yang digunakan dalam pengembangan perangkat lunak untuk memanipulasi data dalam basis data.
+<sub>CRUD adalah singkatan dari Create, Read, Update, dan Delete. Ini adalah operasi dasar yang digunakan dalam pengembangan perangkat lunak untuk memanipulasi data dalam basis data.</sub>
